@@ -1,8 +1,7 @@
 
-  <h2 align="center">Mac OS Classic</h2><br />
+  <h2 align="center">macOS Classic Dark</h2><br />
 <p align="center">
-  A Clover Theme by Machinee<br />
-  (Work in progress)
+  A Clover Theme by dariolob based on the original Machinee's classic theme<br />
 </p>
 
 
