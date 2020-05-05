@@ -3,9 +3,9 @@
 <plist version="1.0">
 	<dict>
 		<key>Author</key>
-		<string>Machinee</string>
+		<string>dariolob (original by Machinee)</string>
 		<key>Year</key>
-		<string>2018</string>
+		<string>2020</string>
 		<key>Description</key>
 		<string>Mac OS Classic</string>
 		<key>Theme</key>
@@ -13,9 +13,9 @@
 			<key>Origination</key>
 			<dict>
 			    <key>DesignWidth</key>
-			    <integer>2560</integer>
+			    <integer>1920</integer>
 			    <key>DesignHeight</key>
-			    <integer>1440</integer>
+			    <integer>1080</integer>
 			</dict>
 			<key>Background</key>
 			<dict>
@@ -73,21 +73,6 @@
 			    <key>TileYSpace</key>
 			    <integer>20</integer>
 			</dict>
-		<key>Anime</key>
-		<array>
-		    <dict>
-		        <key>ID</key>
-		        <integer>1</integer>
-		        <key>Path</key>
-		        <string>logo_3D</string>
-		        <key>Frames</key>
-		        <integer>45</integer>
-		        <key>FrameTime</key>
-		        <integer>33</integer>
-		        <key>Once</key>
-		        <false/>
-		    </dict>
-		</array>
 	</dict>
 </dict>
 </plist>

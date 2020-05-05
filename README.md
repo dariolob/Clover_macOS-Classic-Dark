@@ -7,7 +7,7 @@
 
 
 
-![screen](/screenshots/screen.png)
+![screen](/screenshots/screenshot.png)
 
 
 
