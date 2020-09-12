@@ -1,7 +1,7 @@
 
   <h2 align="center">macOS Classic Dark</h2><br />
 <p align="center">
-  A Clover Theme by dariolob based on the original Machinee's classic theme<br />
+  A nice dark Clover Theme, based on the original MacOS Classic Theme by fbongcam<br />
 </p>
 
 
@@ -10,9 +10,6 @@
 
 
 
-
-<p align="center">Created a Classic Mac OS Theme for Clover Bootloader. Thought I'd share it for anyone interested.
-It has the features of the Classic Mac OS with a modern look.</p>
 
 
 **<p align="center">
